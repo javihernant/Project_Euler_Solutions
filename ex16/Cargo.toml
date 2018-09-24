@@ -1,0 +1,8 @@
+[package]
+name = "ex16"
+version = "0.1.0"
+authors = ["javi"]
+
+[dependencies]
+num-bigint = "0.2.0"
+num-traits = "0.2"
