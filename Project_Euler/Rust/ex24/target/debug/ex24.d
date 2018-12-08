@@ -1,0 +1,1 @@
+/home/javi/Documents/Code_Project/Rust/Project_Euler_Solutions/Project_Euler/Rust/ex24/target/debug/ex24: /home/javi/Documents/Code_Project/Rust/Project_Euler_Solutions/Project_Euler/Rust/ex24/src/main.rs
