@@ -1,6 +1,0 @@
-[package]
-name = "ex24"
-version = "0.1.0"
-authors = ["rexto <rexto45@gmail.com>"]
-
-[dependencies]

@@ -1,7 +1,0 @@
-[package]
-name = "ex20"
-version = "0.1.0"
-authors = ["javi"]
-
-[dependencies]
-num-bigint = "0.2"
