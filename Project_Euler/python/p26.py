@@ -1,5 +1,4 @@
 from decimal import *
-cycles=[]
 
 def main():
     i_new=0
